@@ -1,0 +1,9 @@
+[package]
+name = "onesys"
+version = "0.1.0"
+authors = ["Dallas Coble <dallascoble@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+quicksilver = "0.3.18"
+rand = "0.7"
